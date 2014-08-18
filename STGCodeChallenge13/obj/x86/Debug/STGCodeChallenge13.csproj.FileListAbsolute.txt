@@ -1,0 +1,9 @@
+C:\Users\stguser\AppData\Local\Temporary Projects\STGCodeChallenge13\bin\Debug\STGCodeChallenge13.exe
+C:\Users\stguser\AppData\Local\Temporary Projects\STGCodeChallenge13\bin\Debug\STGCodeChallenge13.pdb
+C:\Users\stguser\AppData\Local\Temporary Projects\STGCodeChallenge13\obj\x86\Debug\STGCodeChallenge13.Form1.resources
+C:\Users\stguser\AppData\Local\Temporary Projects\STGCodeChallenge13\obj\x86\Debug\STGCodeChallenge13.Properties.Resources.resources
+C:\Users\stguser\AppData\Local\Temporary Projects\STGCodeChallenge13\obj\x86\Debug\STGCodeChallenge13.csproj.GenerateResource.Cache
+C:\Users\stguser\AppData\Local\Temporary Projects\STGCodeChallenge13\obj\x86\Debug\STGCodeChallenge13.exe
+C:\Users\stguser\AppData\Local\Temporary Projects\STGCodeChallenge13\obj\x86\Debug\STGCodeChallenge13.pdb
+C:\Users\stguser\documents\visual studio 2010\Projects\STGCodeChallenge13\STGCodeChallenge13\obj\x86\Debug\STGCodeChallenge13.exe
+C:\Users\stguser\documents\visual studio 2010\Projects\STGCodeChallenge13\STGCodeChallenge13\obj\x86\Debug\STGCodeChallenge13.pdb
